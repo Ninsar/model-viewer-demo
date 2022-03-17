@@ -1,5 +1,5 @@
 - [Кран шаровой DN 150 PN 1,6 МПа](ball-valve/index.html)
-  - [Примерка "Кран шаровой DN 150 PN 1,6 МПа" (iOS only)](ball-valve/fitting.html)
+  - [Примерка (iOS only)](ball-valve/fitting.html)
 - [Катер Беркут L-ALUMA](boat/index.html)
 - [Инструментальная тележка](cart/index.html)
 - [Мотопомпа Champion GTP80H](pump/index.html)
