@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "949418d324a4a29cc6e02085ad337937",
+    "format" : "arObject",
+    "displayName" : "AR-Труба.arobject"
+  },
+  {
+    "libraryIdentifier" : "c38ddd2f94d055a18eb58b45f51ed852",
+    "format" : "arObject",
+    "displayName" : "AR-объект.arobject"
+  },
+  {
+    "libraryIdentifier" : "4f8e7971d7d8d8ae583fbe539b820f75",
+    "format" : "arObject",
+    "displayName" : "AR-объект 1.arobject"
+  },
+  {
+    "libraryIdentifier" : "b6c8ed54b493f75d07311ee8610032d9",
+    "format" : "model",
+    "displayName" : "zadvijka_2.usdz"
+  },
+  {
+    "libraryIdentifier" : "124b8d6324efdbd7239eff7fb86de5b7",
+    "format" : "model",
+    "displayName" : "Задвижка.reality"
+  },
+  {
+    "libraryIdentifier" : "da3b7cef27ab65b267fa31af7e0cd4f7",
+    "format" : "model",
+    "displayName" : "zadvijka_2.usdz"
+  }
+]
