@@ -1,5 +1,3 @@
-# Web AR приложение для просмотра товаров маркетплейса Reserve
-
 - [Кран шаровой DN 150 PN 1,6 МПа](ball-valve/index.html)
   - [Примерка "Кран шаровой DN 150 PN 1,6 МПа" (iOS only)](ball-valve/fitting.html)
 - [Катер Беркут L-ALUMA](boat/index.html)
