@@ -9,3 +9,4 @@
   - [Корректная примерка](https://mywebar.com/p/gpns-valve-correct)
   - [Некорректная примерка](https://mywebar.com/p/gpns-valve-incorrect)
 - [Тиски слесарные](vise/index.html)
+- [Баня](bath/index.html)
